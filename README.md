@@ -1,5 +1,5 @@
 ---
-title: Diet plan for north indian cuisine
+title: Diet plan for north indian cuisine ( It will provide diet plans to loss weight for north indian cuisine )
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
