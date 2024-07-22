@@ -1,5 +1,5 @@
 ---
-title: CustomizedLLMApp
+title: Diet plan for north indian cuisine
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
