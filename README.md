@@ -1,12 +1,6 @@
 ---
 title: Diet plan for north indian cuisine ( It will provide diet plans to loss weight for north indian cuisine )
-emoji: 💬
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 4.36.1
-app_file: app.py
-pinned: false
+
 Certainly! Here’s a sample README file for a dietitian specializing in weight loss with a focus on North Indian cuisine:
 
 ---
